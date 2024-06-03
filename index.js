@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('bam').addEventListener('click', function() {
-        alert('yes');
+        alert('call me nơ bae 0838984511');
     });
 
     document.getElementById('bam1').addEventListener('mouseover', function() {
